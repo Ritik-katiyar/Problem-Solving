@@ -1,4 +1,4 @@
-//Ashish Kumar Verma
+//Ritik Katiyar
 bool checkIsAP(int arr[], int n)
     {
         // code here
