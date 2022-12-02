@@ -1,4 +1,4 @@
-//Ashish Kumar Verma
+//Ritik Katiyar
 void sortColors(vector<int>& nums) {
         int zero=0,two=nums.size()-1;
         int i=0;
